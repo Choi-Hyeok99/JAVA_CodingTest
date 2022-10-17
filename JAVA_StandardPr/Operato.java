@@ -1,4 +1,4 @@
-public class Operato {
+class Operato {
 
 	public static void main(String[] args) {
 		int x = 2;
